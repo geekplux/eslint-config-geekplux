@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-geekplux",
+  "version": "1.0.0",
+  "description": "eslint config for geekplux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekplux/eslint-config-geekplux.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "geekplux"
+  ],
+  "author": "geekplux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geekplux/eslint-config-geekplux/issues"
+  },
+  "homepage": "https://github.com/geekplux/eslint-config-geekplux#readme"
+}
