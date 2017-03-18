@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-geekplux",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "eslint config for geekplux",
   "main": "index.js",
   "scripts": {
