@@ -5,7 +5,8 @@ module.exports = {
   //   sourceType: 'module',
   // },
   rules: {
-    semi: 2,
+    indent: [2, 2, {SwitchCase: 1}],
+    semi: [2, 'never'],
     // to allow: if (false) return
     'curly': [
       'error',
